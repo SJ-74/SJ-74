@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SJ-74
+- 👋 Hi, I’m [@SJ-74](https://www.github.com/SJ-74)
 - 👀 I’m interested in fullstack development and cyber security.
 - 🌱 I’m currently learning frontend development.
 - 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/sjvaani74)
